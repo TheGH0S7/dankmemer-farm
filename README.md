@@ -1,4 +1,5 @@
 ## DANK-MEMER-FARMER
+Just a self bot made in discord.js to farm dank memer bot coins via "pls beg" command
 # HOW TO USE
 * Install Node.JS (v12/v14)
 * Install dependencies {
